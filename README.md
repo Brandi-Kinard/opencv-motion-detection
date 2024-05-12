@@ -19,7 +19,7 @@ Motion detection stands as a cornerstone in the field of computer vision, with s
 To get started with this motion detection notebook:
 1. Clone this repository to your local machine using `git clone https://github.com/Brandi-Kinard/opencv-motion-detection.git`
 2. Ensure you have Jupyter Notebook installed, or use Google Colab to open the notebook.
-3. Install necessary libraries (listed in the Prerequisites section below).
+3. Install necessary libraries (listed in the [Prerequisites](https://github.com/Brandi-Kinard/opencv-motion-detection/blob/main/README.md#prerequisites) section below).
 4. Run the notebook cells sequentially to observe motion detection in action.
 
 ## Prerequisites
