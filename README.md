@@ -3,8 +3,6 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# OpenCV Motion Detection
-
 ## Overview
 This repository contains a Jupyter notebook that exemplifies the detection of motion in videos featuring dynamic foreground elements. Utilizing OpenCV, the project applies advanced image processing techniques such as background subtraction and erosion to isolate and refine the detection of moving objects.
 
