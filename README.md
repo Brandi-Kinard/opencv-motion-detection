@@ -6,6 +6,9 @@
 ## Overview
 This repository contains a Jupyter notebook that exemplifies the detection of motion in videos featuring dynamic foreground elements. Utilizing OpenCV, the project applies advanced image processing techniques such as background subtraction and erosion to isolate and refine the detection of moving objects.
 
+![giphy (13)](https://github.com/Brandi-Kinard/opencv-motion-detection/assets/52756042/1bffde5f-bdc3-4db0-ae17-82e9804233ab)
+
+
 ## Why This Project Matters
 Motion detection stands as a cornerstone in the field of computer vision, with significant implications across various sectors including security, surveillance, and traffic management. By enhancing the accuracy and efficiency of motion detection, this project contributes to the development of smarter, more responsive systems that can adapt to dynamic environments.
 
